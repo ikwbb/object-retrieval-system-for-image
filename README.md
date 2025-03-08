@@ -16,18 +16,9 @@ This repository contains an implementation of an image retrieval system designed
 - **Top-10 Results**: Outputs the top 10 most similar images from the gallery for each query.
 
 ## Repository Structure
-
-- **`cv_assignment1_cnn/`**: Contains the CNN-based retrieval method.
   - `extract_feature_multi_process.py`: Feature extraction using ResNet50.
   - `all_retrieval.py`: Image retrieval and ranking using cosine similarity.
-- **`cv_assignment1_histogram/`**: Contains the histogram-based retrieval method.
-  - `extract_features_histogram.py`: Custom histogram feature extraction.
-  - `retrieve_distance.py`: Retrieval using Euclidean distance.
-- **`cv_assignment1_combined/`**: Combines both methods for enhanced performance.
-  - `all_retrieval.py`: Weighted similarity scoring and retrieval.
-- **`gallery/`**: Placeholder for the image gallery (images not included to optimize space).
-- **`query/`**: Placeholder for query images (not included).
-- **`README.md`**: This file.
+
 
 ## Methodology
 
