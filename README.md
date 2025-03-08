@@ -1,6 +1,6 @@
-# Image Retrieval System
+# Object Retrieval System in Image
 
-This repository contains an implementation of an image retrieval system designed to search for and rank similar images from a large gallery based on query images. The system leverages two distinct methods—CNN-based feature extraction and a custom histogram-based approach—along with a combined strategy to enhance retrieval performance. It is built to process a gallery of images and return ranked results based on similarity to a given query.
+This repository contains an implementation of an image retrieval system designed to search for and rank similar object in images from a large gallery based on query images. The system leverages two distinct methods—CNN-based feature extraction and a custom histogram-based approach—along with a combined strategy to enhance retrieval performance. It is built to process a gallery of images and return ranked results based on similarity to a given query.
 
 ## Features
 
